@@ -1,0 +1,8 @@
+﻿  Move.cpp
+C:\Users\nazeh\OneDrive\Skrivbord\CC++\Pokemon 2\main\Move.cpp(42,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nazeh\OneDrive\Skrivbord\CC++\Pokemon 2\main\Move.cpp(67,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Pokemon.cpp
+  main.cpp
+C:\Users\nazeh\OneDrive\Skrivbord\CC++\Pokemon 2\main\main.cpp(6,30): warning C4566: character represented by universal-character-name '\u2423' cannot be represented in the current code page (1252)
+  Generating Code...
+  main.vcxproj -> C:\Users\nazeh\OneDrive\Skrivbord\CC++\Pokemon 2\x64\Debug\main.exe
